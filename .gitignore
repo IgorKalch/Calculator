@@ -1,0 +1,25 @@
+####CalculatorLibrary###
+
+CalculatorLibrary/bin/*
+CalculatorLibrary/obj/*
+CalculatorLibrary/.vs
+
+###Calculator###
+
+Calculator/bin/*
+Calculator/obj/*
+Calculator/.vs/*
+Calculator/TestResults/*
+Calculator/packages/*
+
+##CalculatorLibraryTest###
+
+CalculatorLibraryTest/bin/*
+CalculatorLibraryTest/obj/*
+
+packages/*
+TestResults/*
+For me/*
+.git/*
+.vs/*
+#*.sln
